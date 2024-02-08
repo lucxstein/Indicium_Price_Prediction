@@ -44,4 +44,4 @@ Caso não tenha o Jupyter instalado, você pode usar o pip para fazê-lo, o gere
 
 ## Arquivo PKL
 
-O repositório também inclui um arquivo LH_CD_LucasStein.pkl, que é um arquivo serializado contendo o modelo de machine learning treinado. Você pode carregar este arquivo usando a biblioteca joblib ou pickle para fazer previsões com o modelo treinado sem a necessidade de re-treiná-lo.
+O repositório também inclui o arquivo LH_CD_LucasStein.pkl, que é um arquivo serializado contendo o modelo de machine learning treinado. Você pode carregar este arquivo usando a biblioteca joblib ou pickle para fazer previsões com o modelo treinado sem a necessidade de re-treiná-lo.
