@@ -42,6 +42,11 @@ Caso não tenha o Jupyter instalado, você pode usar o pip para fazê-lo, o gere
 
 6. Siga as instruções no notebook para executar o código do projeto e interagir com o modelo de machine learning.
 
-## Arquivo PKL
+## Arquivos no Repositório
 
-O repositório também inclui o arquivo LH_CD_LucasStein.pkl, que é um arquivo serializado contendo o modelo de machine learning treinado. Você pode carregar este arquivo usando a biblioteca joblib ou pickle para fazer previsões com o modelo treinado sem a necessidade de re-treiná-lo.
+O repositório inclui os seguintes arquivos:
+
+- Projeto_Indicium.ipynb: O notebook Jupyter contendo a EDA e o código do modelo de machine learning.
+- LH_CD_LucasStein.pkl: O arquivo serializado contendo um modelo de machine learning já treinado e pronto para ser utilizado através de uma API.
+- teste_indicium_precificacao.csv: O arquivo CSV contendo os dados usados no projeto.
+- requirements.txt: O arquivo txt com todos os pacotes e suas respectivas versões utilizadas no projeto.
