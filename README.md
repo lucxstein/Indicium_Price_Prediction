@@ -26,7 +26,7 @@ Caso não tenha o Jupyter instalado, você pode usar o pip para fazê-lo, o gere
     cd Indicium_Price_Prediction
     
 
-3. Instale as dependências usando pip e o arquivo requirements.txt fornecido:
+3. Instale as dependências usando pip e o arquivo requirements.txt fornecido nesse repositório:
 
     
     pip install -r requirements.txt
